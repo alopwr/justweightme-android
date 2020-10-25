@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">justweight.me</string>
+    <string name="title_activity_bt">Znajdź wage</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_dashboard_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_notifications_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="title_home">Wyniki</string>
+    <string name="title_dashboard">Cel</string>
+    <string name="title_notifications">Konto</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="find_scale">Znajdz wage</string>
+    <string name="connect_me">Połącz mnie</string>
+    <string name="if_without_name">Pokaż urządzenia bez nazwy</string>
+    <string name="refresh">Odśwież</string>
+    <string name="title_score">Wynik</string>
+    <string name="title_goal">Cel</string>
+    <string name="title_account">Konto</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hint_text_login">Login</string>
+    <string name="hint_text_password">Hasło</string>
+    <string name="button_label_login">Zaloguj sie</string>
+    <string name="button_label_register">Zarejestruj sie</string>
+
+    <string name="not_authorized">Wprowadź poprawne dane</string>
+    <string name="reset_password">Zapomniałem hasła</string>
+    <string name="already_connected">Już połączono</string>
+    <string name="searching">Szukam</string>
+    <string name="already">Obecnie</string>
+    <string name="therest">Pozostało do celu</string>
+    <string name="desc">Legenda</string>
+    <string name="desc_main">Twój cel wagowy</string>
+    <string name="web_is_loading">Ładuje stronę</string>
+    <string name="need_bt">"Moduł Bluetooth nieobsługiwany "</string>
+    <string name="delete_local">Usun dane lokalne</string>
+    <string name="desc_data">Dane</string>
+    <string name="delete_saved_scale">Usun zapisaną wage</string>
+    <string name="logout">Wyloguj sie</string>
+    <string name="see_more">Zobacz wiecej</string>
+    <string name="percent_to_goal">Do celu zostało</string>
+    <string name="goal_get">Cel osigniety</string>
+    <string name="bf">Procent tkanki  tłuszczowej wynosi</string>
+    <string name="loong_time">Teraz waga synchronizuje sie z aplikacją. To zajmie dlugo czasu. Zrób sobie kawe i odpocznij :)</string>
+</resources>
